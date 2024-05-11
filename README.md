@@ -390,4 +390,4 @@ Publish the website in the LocalHost.
 ![alt text](<new/myapp/Screenshot 2024-05-11 181633.png>)
 ![alt text](<new/myapp/Screenshot 2024-05-11 181731.png>)
 ## RESULT:
-The Project for responsive web design using Bootstrap is completed successfully.
+The Project for responsive web design using Bootstrap is completed successfully .
